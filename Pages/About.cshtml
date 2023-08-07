@@ -1,5 +1,6 @@
 ﻿@page
 @model MyRazorApp.Pages.About
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
 
 @{
     Layout = null;
@@ -13,6 +14,7 @@
 </head>
 <body>
 <div>
+    <partial name="Shared/_NavMenuPartial"/>
     <h1>Sobre</h1>
 </div>
 </body>

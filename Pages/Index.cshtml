@@ -2,32 +2,20 @@
 @using System.Globalization
 @using MyRazorApp.Pages
 @model MyRazorApp.Pages.Index
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
 
 
 <!DOCTYPE html>
 
 <html>
     <header>
-        <title></title>
+        <title>Meu primeiro Site C#</title>
     </header>
 
     <body>
     <div>
+        <partial name="Shared/_NavMenuPartial"/>
         
-        <ul>
-            <li>
-                <a href="~/">Home</a>
-            </li>
-            
-            <li>
-                <a href="~/about">Sobre</a>
-            </li>
-            
-            <li>
-                <a href="~/login">Login</a>
-            </li>
-        </ul>
-
         <h1>Categorias</h1>
 
         <table>
