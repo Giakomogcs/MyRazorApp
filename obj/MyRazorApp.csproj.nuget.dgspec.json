@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GitHubs\\MyRazorApp\\MyRazorApp.csproj": {}
+    "D:\\Dotnet_balta\\Visão Geral ASP NET\\MyRazorApp\\MyRazorApp.csproj": {}
   },
   "projects": {
-    "C:\\GitHubs\\MyRazorApp\\MyRazorApp.csproj": {
+    "D:\\Dotnet_balta\\Visão Geral ASP NET\\MyRazorApp\\MyRazorApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GitHubs\\MyRazorApp\\MyRazorApp.csproj",
+        "projectUniqueName": "D:\\Dotnet_balta\\Visão Geral ASP NET\\MyRazorApp\\MyRazorApp.csproj",
         "projectName": "MyRazorApp",
-        "projectPath": "C:\\GitHubs\\MyRazorApp\\MyRazorApp.csproj",
-        "packagesPath": "C:\\Users\\Giovani\\.nuget\\packages\\",
-        "outputPath": "C:\\GitHubs\\MyRazorApp\\obj\\",
+        "projectPath": "D:\\Dotnet_balta\\Visão Geral ASP NET\\MyRazorApp\\MyRazorApp.csproj",
+        "packagesPath": "C:\\Users\\giako\\.nuget\\packages\\",
+        "outputPath": "D:\\Dotnet_balta\\Visão Geral ASP NET\\MyRazorApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Giovani\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\giako\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
