@@ -12,33 +12,46 @@
     </header>
 
     <body>
-        <div>
-            @for(var i =0; i<= 10; i++){
-                <p>Item @i</p>
-            }
+    <div>
+        
+        <ul>
+            <li>
+                <a href="~/">Home</a>
+            </li>
             
-            <table>
-                <thead>
+            <li>
+                <a href="~/about">Sobre</a>
+            </li>
+            
+            <li>
+                <a href="~/login">Login</a>
+            </li>
+        </ul>
+
+        <h1>Categorias</h1>
+
+        <table>
+            <thead>
+            <tr>
+                <td>ID</td>
+                <td>Title</td>
+                <td>Price</td>
+            </tr>
+            </thead>
+
+            <tbody>
+            @foreach (var category in Model.Categories)
+            {
                 <tr>
-                    <td>ID</td>
-                    <td>Title</td>
-                    <td>Price</td>
+                    <td>@category.Id</td>
+                    <td>@category.Title</td>
+                    <td>@category.Price.ToString("C", new CultureInfo("pt-BR"))</td>
                 </tr>
-                </thead>
-            
-                <tbody>
-                @foreach(var category in Model.Categories)
-                {
-                    <tr>
-                        <td>@category.Id</td>
-                        <td>@category.Title</td>
-                        <td>@category.Price.ToString("C",new CultureInfo("pt-BR"))</td>
-                    </tr>
-                }
-                </tbody>
-            </table>
-            
-        </div>
+            }
+            </tbody>
+        </table>
+
+    </div>
     </body>
 </html>
 
