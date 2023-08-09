@@ -16,8 +16,8 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\Dotnet_balta\Visão Geral ASP NET\MyRazorApp
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Dotnet_balta/Visão Geral ASP NET/MyRazorApp/Pages/About.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWJvdXQuY3NodG1s
+[D:/Dotnet_balta/Visão Geral ASP NET/MyRazorApp/Pages/Categories.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmllcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Dotnet_balta/Visão Geral ASP NET/MyRazorApp/Pages/Index.cshtml]
@@ -47,3 +47,11 @@ build_metadata.AdditionalFiles.CssScope =
 [D:/Dotnet_balta/Visão Geral ASP NET/MyRazorApp/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dotnet_balta/Visão Geral ASP NET/MyRazorApp/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dotnet_balta/Visão Geral ASP NET/MyRazorApp/Pages/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWJvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-kh2dxft04v

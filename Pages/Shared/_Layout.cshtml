@@ -2,7 +2,9 @@
 
 <html>
 <header>
-    <title>Meu primeiro Site C#</title>
+    <title>@ViewData["Title"] - Meu primeiro Site C#</title>
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version = "true">
+    <link rel="stylesheet" href="~/MyRazorApp.styles.css" asp-append-version = "true">
 </header>
 
 <body>
@@ -15,6 +17,11 @@
         @RenderBody()
     </main>
     
+    <footer>
+        Powered by Giovani CS
+    </footer>
+    
+    @RenderSection(name:"scripts", required:false)
 
 </div>
 </body>

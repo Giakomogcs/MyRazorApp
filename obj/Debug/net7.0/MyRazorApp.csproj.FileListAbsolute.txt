@@ -54,3 +54,6 @@ D:\Dotnet_balta\Visão Geral ASP NET\MyRazorApp\obj\Debug\net7.0\refint\MyRazorA
 D:\Dotnet_balta\Visão Geral ASP NET\MyRazorApp\obj\Debug\net7.0\MyRazorApp.pdb
 D:\Dotnet_balta\Visão Geral ASP NET\MyRazorApp\obj\Debug\net7.0\MyRazorApp.genruntimeconfig.cache
 D:\Dotnet_balta\Visão Geral ASP NET\MyRazorApp\obj\Debug\net7.0\ref\MyRazorApp.dll
+D:\Dotnet_balta\Visão Geral ASP NET\MyRazorApp\bin\Debug\net7.0\MyRazorApp.staticwebassets.runtime.json
+D:\Dotnet_balta\Visão Geral ASP NET\MyRazorApp\obj\Debug\net7.0\scopedcss\Pages\about.cshtml.rz.scp.css
+D:\Dotnet_balta\Visão Geral ASP NET\MyRazorApp\obj\Debug\net7.0\scopedcss\projectbundle\MyRazorApp.bundle.scp.css
